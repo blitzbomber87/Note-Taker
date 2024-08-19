@@ -28,13 +28,11 @@ Open Render link here...
 
 Homepage to start note taking
 
-![hoepage]
+![hoepage](https://github.com/user-attachments/assets/0791022c-0584-468e-b8a0-9de721c8e3eb)
 
-T
+Enter notes page and save notes. As well as clear notes
 
-![readme]
-
-
+![takenotes](https://github.com/user-attachments/assets/129d7c56-22ef-41c2-a669-37ad5f49ab56)
 
 
 ## Credits
