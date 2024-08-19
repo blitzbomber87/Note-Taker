@@ -24,7 +24,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Usage
 
-Open Render link here...
+Open Render link here... https://note-taker-5sds.onrender.com
 
 Homepage to start note taking
 
@@ -38,6 +38,6 @@ Enter notes page and save notes. As well as clear notes
 ## Credits
 Eli - https://github.com/blitzbomber87
 
-
+Had some trouble with the save note button and display saved notes
 
 
